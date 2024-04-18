@@ -3,7 +3,7 @@
 !["Sentiment Analysis Twitter"](image.gif)
 
 ## Overview
-**SentimentAnalyzer** is a sophisticated web application meticulously crafted to unravel the intricate emotional threads woven within tweets. 🌐🔍
+**SentimentAnalyzer** is a simple web application crafted that tries to unravel the intricate emotional threads woven within tweets. 🌐🔍
 
 ## Key Features
 1. **Emotion English DistilRoBERTa-base Model**
