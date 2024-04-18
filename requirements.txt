@@ -1,0 +1,7 @@
+twikit
+streamlit
+pandas
+transformers
+matplotlib
+ollama
+taipy
