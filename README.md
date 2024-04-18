@@ -34,9 +34,9 @@ Functionality Breakdown:
 
 - The Streamlit app interface:
 
- + Displays a title "Twitter Sentiment Analysis".
- + Provides a text input field for users to enter a tweet ID.
- + Shows a button labeled "Analyse Tweet".
+   + Displays a title "Twitter Sentiment Analysis".
+   + Provides a text input field for users to enter a tweet ID.
+   + Shows a button labeled "Analyse Tweet".
 
 - When the button is clicked:
 
